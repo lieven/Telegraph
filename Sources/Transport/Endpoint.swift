@@ -5,6 +5,7 @@
 //  Created by Yvo van Beek on 9/16/18.
 //  Copyright © 2018 Building42. All rights reserved.
 //
+import Foundation
 
 public struct Endpoint: Hashable {
   public typealias Host = String

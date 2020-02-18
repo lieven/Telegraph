@@ -19,6 +19,9 @@ xcuserdata
 # Carthage
 Carthage/Build
 
+# Swift PM
+.swiftpm
+
 # Third party tools
 .idea/
 FauxPasConfig/

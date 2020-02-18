@@ -5,6 +5,7 @@
 //  Created by Yvo van Beek on 7/13/18.
 //  Copyright © 2018 Building42. All rights reserved.
 //
+import Foundation
 
 public class SynchronizedSet<Element: Hashable> {
   private var innerSet = Set<Element>()

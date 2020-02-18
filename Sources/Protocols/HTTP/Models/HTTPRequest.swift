@@ -5,6 +5,7 @@
 //  Created by Yvo van Beek on 1/31/17.
 //  Copyright © 2017 Building42. All rights reserved.
 //
+import Foundation
 
 open class HTTPRequest: HTTPMessage {
   public typealias Params = [String: String]
